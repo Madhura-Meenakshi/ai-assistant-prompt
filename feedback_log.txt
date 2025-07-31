@@ -1,0 +1,37 @@
+Feedback: yes
+Feedback: no
+Feedback: yes
+User Prompt: summarize: main points
+AI Response: This is a brief summary of the provided text.
+Feedback: yes
+==================================================
+[2025-07-31 15:21:31]
+Prompt: What is the capital of France?
+Response: The capital of France is Paris.
+Feedback: yes
+============================================================
+[2025-07-31 15:22:03]
+Prompt: Provide a brief overview of this document:  Provide an Overview
+Response: Overview: The document provides a high-level view of the key concepts presented.
+Feedback: yes
+============================================================
+[2025-07-31 15:50:33]
+Prompt: What is the capital of France?
+Response: The capital of France is Paris.
+Feedback: yes
+============================================================
+[2025-07-31 15:51:36]
+Prompt: Summarize the following text: This is story about the sacrifice of a mother in her life
+Response: Summary: This passage explains the core ideas using simplified language.
+Feedback: no
+============================================================
+[2025-07-31 15:55:13]
+Prompt: What is the capital of France?
+Response: The capital of France is Paris.
+Feedback: yes
+============================================================
+[2025-07-31 15:55:26]
+Prompt: Write a story about a dragon and a village.
+Response: Once upon a time, a lonely dragon found a village that welcomed him. Together, they lived in harmony and peace.
+Feedback: yes
+============================================================
